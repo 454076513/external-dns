@@ -146,6 +146,7 @@ func testServiceSourceNewServiceSource(t *testing.T) {
 				false,
 				false,
 				false,
+				false,
 				ti.serviceTypesFilter,
 				false,
 			)
